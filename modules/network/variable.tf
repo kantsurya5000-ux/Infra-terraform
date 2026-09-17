@@ -1,0 +1,7 @@
+variable "vnets" {
+  
+}
+
+variable "subnets" {
+  
+}
